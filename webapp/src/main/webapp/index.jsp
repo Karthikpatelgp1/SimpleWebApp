@@ -96,8 +96,8 @@ h1{
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="#offers">Contact</a></li>
             </ul>
-		
         </header>
          <h1>Flipkart summer Mobile offer available from 1st April 2023 31st April 2023</h1>
     </section>    
