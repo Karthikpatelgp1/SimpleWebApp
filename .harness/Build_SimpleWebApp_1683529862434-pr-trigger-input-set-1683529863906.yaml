@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_SimpleWebApp_1683529862434-pr-trigger-input-set
+  identifier: Build_SimpleWebApp_1683529862434prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_SimpleWebApp_1683529862434
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
